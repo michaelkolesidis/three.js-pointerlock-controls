@@ -1,6 +1,6 @@
 import * as THREE from "three";
-
 import { PointerLockControls } from "three/examples/jsm/controls/PointerLockControls.js";
+import * as dat from "lil-gui";
 
 let camera, scene, renderer, controls;
 
